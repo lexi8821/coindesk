@@ -1,0 +1,4 @@
+# .gitignore for coindesk project
+# sqlite3 database file as the data has to be pulled separately
+coindesk.sqlite
+__pycache__
